@@ -3,13 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "bootstrap": "^4.6.0",
+    "formik": "^2.2.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
-    "web-vitals": "^1.0.1"
+    "react-transition-group": "^4.4.1",
+    "reactstrap": "^8.9.0",
+    "shortid": "^2.2.15",
+    "web-vitals": "^1.0.1",
+    "yup": "^0.32.8"
   },
   "scripts": {
     "start": "react-scripts start",
